@@ -1,0 +1,13 @@
+// generated from rosidl_typesupport_introspection_c/resource/srv__introspection_type_support.h.em
+// generated code does not contain a copyright notice
+
+#ifndef TF2_MSGS__SRV__FRAME_GRAPH__INTROSPECTION_TYPE_SUPPORT_H_
+#define TF2_MSGS__SRV__FRAME_GRAPH__INTROSPECTION_TYPE_SUPPORT_H_
+
+#include <rosidl_generator_c/service_type_support.h>
+
+#include "tf2_msgs/msg/rosidl_generator_c__visibility_control.h"
+
+static rosidl_service_type_support_t tf2_msgs__srv__rosidl_typesupport_introspection_c__FrameGraph_service_type_support_handle;
+
+#endif  // TF2_MSGS__SRV__FRAME_GRAPH__INTROSPECTION_TYPE_SUPPORT_H_

@@ -1,0 +1,8 @@
+composition::Talker;lib/libtalker_component.dylib
+composition::Listener;lib/liblistener_component.dylib
+composition::Server;lib/libserver_component.dylib
+composition::Client;lib/libclient_component.dylib
+composition::Talker__rmw_fastrtps_cpp;lib/libtalker_component__rmw_fastrtps_cpp.dylib
+composition::Listener__rmw_fastrtps_cpp;lib/liblistener_component__rmw_fastrtps_cpp.dylib
+composition::Server__rmw_fastrtps_cpp;lib/libserver_component__rmw_fastrtps_cpp.dylib
+composition::Client__rmw_fastrtps_cpp;lib/libclient_component__rmw_fastrtps_cpp.dylib

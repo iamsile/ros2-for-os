@@ -1,0 +1,13 @@
+// generated from rosidl_typesupport_introspection_c/resource/srv__introspection_type_support.h.em
+// generated code does not contain a copyright notice
+
+#ifndef SENSOR_MSGS__SRV__SET_CAMERA_INFO__INTROSPECTION_TYPE_SUPPORT_H_
+#define SENSOR_MSGS__SRV__SET_CAMERA_INFO__INTROSPECTION_TYPE_SUPPORT_H_
+
+#include <rosidl_generator_c/service_type_support.h>
+
+#include "sensor_msgs/msg/rosidl_generator_c__visibility_control.h"
+
+static rosidl_service_type_support_t sensor_msgs__srv__rosidl_typesupport_introspection_c__SetCameraInfo_service_type_support_handle;
+
+#endif  // SENSOR_MSGS__SRV__SET_CAMERA_INFO__INTROSPECTION_TYPE_SUPPORT_H_

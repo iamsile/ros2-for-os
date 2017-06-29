@@ -1,0 +1,13 @@
+// generated from rosidl_typesupport_introspection_c/resource/srv__introspection_type_support.h.em
+// generated code does not contain a copyright notice
+
+#ifndef STD_SRVS__SRV__TRIGGER__INTROSPECTION_TYPE_SUPPORT_H_
+#define STD_SRVS__SRV__TRIGGER__INTROSPECTION_TYPE_SUPPORT_H_
+
+#include <rosidl_generator_c/service_type_support.h>
+
+#include "std_srvs/msg/rosidl_generator_c__visibility_control.h"
+
+static rosidl_service_type_support_t std_srvs__srv__rosidl_typesupport_introspection_c__Trigger_service_type_support_handle;
+
+#endif  // STD_SRVS__SRV__TRIGGER__INTROSPECTION_TYPE_SUPPORT_H_

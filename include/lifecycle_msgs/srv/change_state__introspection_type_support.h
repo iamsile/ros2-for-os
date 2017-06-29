@@ -1,0 +1,13 @@
+// generated from rosidl_typesupport_introspection_c/resource/srv__introspection_type_support.h.em
+// generated code does not contain a copyright notice
+
+#ifndef LIFECYCLE_MSGS__SRV__CHANGE_STATE__INTROSPECTION_TYPE_SUPPORT_H_
+#define LIFECYCLE_MSGS__SRV__CHANGE_STATE__INTROSPECTION_TYPE_SUPPORT_H_
+
+#include <rosidl_generator_c/service_type_support.h>
+
+#include "lifecycle_msgs/msg/rosidl_generator_c__visibility_control.h"
+
+static rosidl_service_type_support_t lifecycle_msgs__srv__rosidl_typesupport_introspection_c__ChangeState_service_type_support_handle;
+
+#endif  // LIFECYCLE_MSGS__SRV__CHANGE_STATE__INTROSPECTION_TYPE_SUPPORT_H_

@@ -1,0 +1,29 @@
+// generated from rosidl_generator_c/resource/msg__type_support.h.em
+// generated code does not contain a copyright notice
+
+#ifndef GEOMETRY_MSGS__MSG__POSE_ARRAY__TYPE_SUPPORT_H_
+#define GEOMETRY_MSGS__MSG__POSE_ARRAY__TYPE_SUPPORT_H_
+
+#if __cplusplus
+extern "C"
+{
+#endif
+
+#include "rosidl_generator_c/message_type_support_struct.h"
+
+#include "geometry_msgs/msg/rosidl_generator_c__visibility_control.h"
+
+// This header is provided by the rmw implementation specific type support
+// package, and defines macros which expand to get type support functions.
+#include "rosidl_generator_c/message_type_support.h"
+
+// Forward declare the get type support functions for this type.
+ROSIDL_GENERATOR_C_PUBLIC_geometry_msgs
+const rosidl_message_type_support_t *
+  ROSIDL_GET_TYPE_SUPPORT_FUNCTION(geometry_msgs, msg, PoseArray)();
+
+#if __cplusplus
+}
+#endif
+
+#endif  // GEOMETRY_MSGS__MSG__POSE_ARRAY__TYPE_SUPPORT_H_

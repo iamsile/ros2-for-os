@@ -1,0 +1,4 @@
+DiagnosticArray.msg
+DiagnosticStatus.msg
+KeyValue.msg
+SelfTest.srv
